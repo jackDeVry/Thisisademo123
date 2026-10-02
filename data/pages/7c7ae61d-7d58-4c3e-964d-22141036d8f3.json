@@ -1,0 +1,12 @@
+{
+  "content": [],
+  "created_at": "2026-10-02T16:41:32.001Z",
+  "created_by": "jackDeVry",
+  "title": "This is a title",
+  "updated_at": "2026-10-02T16:41:32.001Z",
+  "updated_by": "jackDeVry",
+  "autogenerate": {
+    "enabled": true,
+    "type": "home"
+  }
+}
