@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 210,
+      "end_time": 240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mattie Smith starts reciting her poem, \"Shadows Cast in an Indian Winter,”"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "437ca662-85c1-4471-ad08-4c2b9251439d"
+    }
+  ],
   "set": "Default",
   "event_id": "9bcaad2e-2039-4d6a-8d7d-65a0bd75f4d1",
   "source_id": "8a9f9eeb-51aa-462c-ad77-c2bcbde0d314"
